@@ -1,0 +1,8 @@
+E:\Изучение prog\c#\git\-c-\Практика\№2\bin\Debug\#2.exe.config
+E:\Изучение prog\c#\git\-c-\Практика\№2\bin\Debug\#2.exe
+E:\Изучение prog\c#\git\-c-\Практика\№2\bin\Debug\#2.pdb
+E:\Изучение prog\c#\git\-c-\Практика\№2\obj\Debug\#2.csproj.AssemblyReference.cache
+E:\Изучение prog\c#\git\-c-\Практика\№2\obj\Debug\#2.csproj.SuggestedBindingRedirects.cache
+E:\Изучение prog\c#\git\-c-\Практика\№2\obj\Debug\#2.csproj.CoreCompileInputs.cache
+E:\Изучение prog\c#\git\-c-\Практика\№2\obj\Debug\#2.exe
+E:\Изучение prog\c#\git\-c-\Практика\№2\obj\Debug\#2.pdb
